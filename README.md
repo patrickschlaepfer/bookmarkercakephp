@@ -22,3 +22,12 @@ the setup traffic lights.
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+## Setup on windows with PHP
+
+Don't forgot to uncomment and change following lines, to include required libraries.
+
+```
+extension=ext/php_intl.dll
+extension=ext/php_mbstring.dll
+```
