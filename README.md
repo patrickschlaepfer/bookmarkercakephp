@@ -31,3 +31,7 @@ Don't forgot to uncomment and change following lines, to include required librar
 extension=ext/php_intl.dll
 extension=ext/php_mbstring.dll
 ```
+
+###
+
+Rename app.default.php to app.php and change database connection an __SALT___
