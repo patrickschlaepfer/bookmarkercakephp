@@ -34,4 +34,4 @@ extension=ext/php_mbstring.dll
 
 ###
 
-Rename app.default.php to app.php and change database connection an __SALT___
+Rename app.default.php to app.php and change database connection and __SALT___
