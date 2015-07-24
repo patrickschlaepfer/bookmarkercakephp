@@ -2,3 +2,7 @@
 /config/app.php
 /tmp/*
 /logs/*
+
+.buildpath
+.project
+.settings/
